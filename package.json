@@ -1,0 +1,26 @@
+{
+  "name": "cartapacio.core.write",
+  "version": "0.0.1",
+  "description": "write html files to hd",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -R spec test/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "tps://github.com/cartapacio/cartapacio.core.write"
+  },
+  "keywords": [
+    "cartapacio",
+    "writer"
+  ],
+  "author": "Gabriel Zea <zea@gbrl.in> (http://gbrl.in/)",
+  "license": "MIT",
+  "dependencies": {
+    "fs-extra": "^0.9.1"
+  },
+  "devDependencies": {
+    "chai": "^1.9.1",
+    "mocha": "^1.19.0"
+  }
+}
