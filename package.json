@@ -1,5 +1,5 @@
 {
-  "name": "cartapacio.core.write",
+  "name": "cartapacio.core.writer",
   "version": "0.0.1",
   "description": "write html files to hd",
   "main": "index.js",
