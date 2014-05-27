@@ -17,7 +17,8 @@
   "author": "Gabriel Zea <zea@gbrl.in> (http://gbrl.in/)",
   "license": "MIT",
   "dependencies": {
-    "fs-extra": "^0.9.1"
+    "fs-extra": "^0.9.1",
+    "graceful-fs": "^2.0.3"
   },
   "devDependencies": {
     "chai": "^1.9.1",
