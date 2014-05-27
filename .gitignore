@@ -26,3 +26,5 @@ node_modules
 cartapacio.core.template.sublime-project
 cartapacio.core.template.sublime-workspace
 
+core.writer.sublime-project
+core.writer.sublime-workspace
