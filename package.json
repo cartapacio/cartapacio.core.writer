@@ -1,6 +1,6 @@
 {
   "name": "cartapacio.core.writer",
-  "version": "0.0.",
+  "version": "0.1.0",
   "description": "write html files to hd",
   "main": "index.js",
   "scripts": {
